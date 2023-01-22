@@ -1,0 +1,18 @@
+function findMinMax(arr) {
+  return { min: Math.min(...arr), max: Math.max(...arr) };
+}
+
+
+function minMaxArray(arr) {
+  return { min: Math.min(...arr), max: Math.max(...arr) };
+}
+
+
+function maxMinArray(arr) {
+  return { max: Math.max(...arr), min: Math.min(...arr) };
+}
+
+
+function maxMinFinder(arr) {
+  return { max: Math.max(...arr), min: Math.min(...arr) };
+}
